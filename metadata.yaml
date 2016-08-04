@@ -1,0 +1,37 @@
+_repo: The-Daisy-chain-or-Aspirations_3610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: Portrays a mid-Victorian family, their confrontations with calamity,
+  and their development of Christian goodness.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Church of England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Family life -- Fiction'
+- !lcsh 'Oxford movement -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Daisy chain, or Aspirations
+url: http://www.gutenberg.org/ebooks/3610
